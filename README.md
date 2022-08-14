@@ -1,0 +1,2 @@
+# joaolucasazevedo-tela-de-login-com-tema-dark
+Para o meu segundo projeto feito em HTML e CSS, decidir fazer uma tela de login com tema dark e usei como referência o projeto do @markzuel .  Nesse projeto pude conhecer e aplicar novos conceitos, mas o principal foi o Midia Query.  Com os tudo em mente, anotações sobre novos conceitos aprendidos no caderno, comecei a aplicação do Layout com HTML e em seguida CSS.  Esse foi o resultado, me conta a sua opinião sobre o projeto. Seu feedback e apreciação são sempre bem-vindos. 🖤
